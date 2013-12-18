@@ -1,0 +1,6 @@
+Spring mvc
+Hibernate
+JSON/JQuery
+JSP
+JSP taglib
+Sitemesh
