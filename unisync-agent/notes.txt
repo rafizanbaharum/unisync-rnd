@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/5694337/do-signed-java-applets-have-access-to-usb-peripherals-when-run-in-the-browser-sa?rq=1
+
+http://stackoverflow.com/questions/8345128/using-usb-from-an-applet-on-linux-javax-usb
+http://stackoverflow.com/questions/444497/using-java-and-usb-which-api-jsr-80-jusb
